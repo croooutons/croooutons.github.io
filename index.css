@@ -9,15 +9,15 @@ td {
     background-color: rgb(66, 30, 30);
 }
 .red {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     background-color: red;
     border: 1px solid white;
     border-radius: 50px;
 }
 .black {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     background-color: black;
     border: 1px solid white;
     border-radius: 50px;
