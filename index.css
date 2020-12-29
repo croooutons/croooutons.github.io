@@ -19,6 +19,8 @@ td {
     width: 20px;
     height: 20px;
     background-color: black;
+    padding: 12px;
+    border: 1px solid
 }
 .king.red {
     background-color: rgb(243, 131, 79);
