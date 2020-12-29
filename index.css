@@ -13,16 +13,12 @@ td {
     height: 20px;
     background-color: red;
     padding: 12px;
-    border: 1px solid;
-    border-color: white;
 }
 .black {
     width: 20px;
     height: 20px;
     background-color: black;
     padding: 12px;
-    border: 1px solid;
-    border-color: white;
 }
 .king.red {
     background-color: rgb(243, 131, 79);
