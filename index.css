@@ -28,3 +28,6 @@ td {
 .king.black {
     background-color: rgb(100, 100, 100);
 }
+.black-turn-text {
+    color: lightgray;
+}
